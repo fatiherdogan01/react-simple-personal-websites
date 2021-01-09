@@ -5,7 +5,7 @@ const frontendIcon = <FrontendIcon style={{ width: 44, height: 37 }} />
 const otherIcon = <OtherIcon style={{ width: 44, height: 42 }} />
 
 export const Profile = {
-  image: 'https://avatars0.githubusercontent.com/u/13077861?s=400&u=4ec073c67443e23eb20ded119c9ff5ee3316da82&v=4',
+  image: 'https://avatars3.githubusercontent.com/u/13077861?s=400&u=387637c3b96878442518fb56263c40316456d40f&v=4',
   mediumSlug: '@fatiherdogan',
   name: 'Fatih Erdoğan',
   title: 'Full Stack Developer',
